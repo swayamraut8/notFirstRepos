@@ -1,0 +1,11 @@
+column_name,numeric_column_1,numeric_column_2
+A,10,1
+B,20,2
+A,30,3
+B,40,4
+A,50,5
+B,60,6
+A,70,7
+B,80,8
+A,90,9
+B,100,10

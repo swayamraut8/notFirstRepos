@@ -1,0 +1,5 @@
+Parking Lot: Seawoods Sector 48
+Spot Number: 7
+Booking Time: 2024-04-01 10:23:10
+Duration (Hours): 2
+Peanlty: 120
